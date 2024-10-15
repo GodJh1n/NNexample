@@ -1,2 +1,2 @@
-#This is NNexample
-##with network.zip to ues
+= This is NNexample
+== load network.zip to use
